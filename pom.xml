@@ -19,10 +19,10 @@
 	<properties>
 		<jdk.version>1.8</jdk.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.11</junit.veaf70db9534bca6c313f5a051de2c9cf8afa6762ersion>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.17.28.248:9000/</sonar.host.url>
-                <sonar.login>7ec09e32759713bf4fcb1749447c9eb9a8046838</sonar.login>
+		<sonar.host.url>http://52.66.242.211:9000/</sonar.host.url>
+                <sonar.login>af70db9534bca6c313f5a051de2c9cf8afa6762e</sonar.login>
 		 <!--
                 <sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password> 
@@ -85,14 +85,14 @@
 			<version>${spring.version}</version>
 		</dependency>
 		
-		<!-- provided dependencies -->
+		<!-- provided dependencies 
 
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
 			<version>3.1.0</version>
 			<scope>provided</scope>
-		</dependency>
+		</dependency> -->
 		
 	</dependencies>
 	
